@@ -21,7 +21,7 @@ Excel : I used excel for the data preparation, data cleaning, data analysis and 
 
 For the data cleaning and preparation, i used the following steps:
 1. Data loading and preparation
-2. Hanling missing values
+2. Handling missing values
 3. Checked for duplicates
 4. Data formatting
 
