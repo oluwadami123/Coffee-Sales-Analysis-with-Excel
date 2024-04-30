@@ -39,13 +39,19 @@ I used pivot table to solve and answer key questions like:
 
 ![Top 5 Customer Sales](https://github.com/oluwadami123/Coffee-Sales-Dashboard-with-Excel/assets/105118910/314b9a5d-d705-47f1-8b0d-4c74778d7761)
 
+Looking at this chart, Allis Wilmore is the customer with the highest sales with the value of $317 in total and he's from the United States which correlates with the total sales by country.
+
 ### Total Sales by Country 
 
 ![Sales by Country](https://github.com/oluwadami123/Coffee-Sales-Dashboard-with-Excel/assets/105118910/3960861a-0eb7-4daf-a87c-c550980b4a42)
 
+The united States is the County with the highest sales which correlates with the top 5 cutomers wiht the highest sales.
+
 ### Total Sales of the Coffee Overtime 
 
 ![Total SalesOver Time](https://github.com/oluwadami123/Coffee-Sales-Dashboard-with-Excel/assets/105118910/3b19ccbc-7a59-4c08-abd3-1a2c1dc5eff1)
+
+We can identify the trend of each type of Coffee across the years, filtered by the Roast Type Names, Sizes, and loyalty Cards.
 
 ### Order Dates(2019 - 2022)
 
@@ -55,7 +61,7 @@ I used pivot table to solve and answer key questions like:
 
 ![DashBoard](https://github.com/oluwadami123/Coffee-Sales-Dashboard-with-Excel/assets/105118910/1f4e3e86-3d09-4852-8123-84426aa02cfa)
 
-The entire dashboard is filtered by the Roast Type Names, Size, and Loyalty Cards.
+The entire dashboard is filtered by the Roast Type Names, Sizes, and Loyalty Cards.
 
 
 
