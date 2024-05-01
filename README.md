@@ -2,7 +2,7 @@
 
 ## Project Overview 
 
-This Project aims to provide insights on the purchasing power of customers on the types of coffee based on the types, roast type, and the sizes. I visualized all my insights using charts and graphs and i created an outstanding interactive dsashboard to facilitate data-driven recommendations and decision making.
+This Project aims to provide insights on the purchasing power of customers on the sales of coffee based on the types, roast type, and their sizes. I visualized all my insights using charts and graphs and i created an outstanding interactive dsashboard to facilitate data-driven recommendations and decision making.
 
 
 ## Data Sources 
